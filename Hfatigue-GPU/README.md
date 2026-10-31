@@ -52,6 +52,6 @@ metadata in its output directory. Run `python <driver> --help` for all options.
 
 ## Reference
 
-If this code is used in published work, cite the associated article:
-*Time-consistent cycle-accelerated phase-field modelling of
-hydrogen-assisted fatigue*.
+*Time-consistent cycle-accelerated phase-field modelling of hydrogen-assisted
+fatigue.* Submitted to the *International Journal of Hydrogen Energy*.
+Citation details will be added on acceptance.
